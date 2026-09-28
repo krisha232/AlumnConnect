@@ -1,0 +1,5 @@
+id_number,full_name,role,batch_year,is_minor
+STF001,Priya Rao,staff,,no
+STU1001,Arjun Mehta,student,2028,yes
+STU1002,Neha Das,student,2026,no
+ALU0450,Kavya Iyer,alumni,2015,no
